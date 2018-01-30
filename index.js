@@ -1,5 +1,5 @@
 // write your code below!
-var name = Utkala
+var name = Deep
 
 function happyHolidays()
 {
@@ -11,7 +11,7 @@ function happyHolidaysTo(name)
   return (`Happy holidays, ${name}!`)
 }
 
-function happyHolidaysTo(Diwali, Utkala)
+function happyHolidaysTo(Diwali, Deep)
 {
   console.log(`Happy ${holiday}, ${name}!`)
 }
