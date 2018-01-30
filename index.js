@@ -1,6 +1,4 @@
 // write your code below!
-var name = Deep
-
 function happyHolidays()
 {
   return "Happy holidays!"
